@@ -19,7 +19,7 @@
 ## Steps to execute this Task List:
 - Download the entire code 
 - Open up the index.html.
-- [View Live Site](https://anthonys1760.github.io/Simple-Calculator/)
+- [View Live Site](https://anthonys1760.github.io/Task-List/)
 
 ## Technologies used: 
 - HTML
